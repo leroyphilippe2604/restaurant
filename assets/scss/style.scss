@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rye&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css");
+
+/* Colors */
+$red: #F8121D;
+$yellow: #F0A202;
+$darkblue: #202C59;
+$brown: #581F18;
+$body-bg-color :#202c5946;
+
+$primary: $red;
+$secondary: $darkblue;
+
+/* Font Variables */
+$body-font: 'Roboto', sans-serif;  
+$title-font: 'Rye', cursive;
+
+/* Styles */
+body {
+  font-family: $body-font;
+  font-weight: normal;
+  background-color:$body-bg-color
+}
+
+h1, h2, h3 {
+  font-family: $title-font;
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #202C59;
+  text-decoration: none;
+}
+
+/* SCSS Imports */
+@import "nav";
+@import "accueil";
+@import "menu";
+@import "galerie";
+@import "restaurants";
+@import "contact";
+@import "footer";

@@ -1,0 +1,48 @@
+.mybc{
+    text-align: center;
+    background-color: #202c5946;
+    
+    a.menu-animation{
+        text-align: center;
+        padding: .5em;
+        color: black;
+        background-color: #202c5946;
+        transition: all 1s ease-in-out;
+        width: 50%;
+    }
+
+    a.menu-animation:hover{
+        background-color: #F8121D;
+        color: white;
+        width: 75%;
+        transform: translate(4em,0)
+        
+    }
+
+    #menu-insecte{
+        text-transform: uppercase;
+    }
+
+    #menu-barbecue{
+        text-transform: uppercase
+    }
+
+    #menu-nouille{
+        text-transform: uppercase
+    }
+
+    .myback{
+        background-color: #581F18;
+        color: white;
+    }
+
+    img.myanimation{
+        height: 30%;
+        width: 30%;
+        transition: all 1s ease-in-out;
+    }
+
+    img.myanimation:hover{
+        transform: scale(1.1,) rotate(0.01turn);
+    }
+}
