@@ -6,7 +6,7 @@ _Florence_, _Frederic_, _Thomas_, _Philippe_.
 
 ## Qu'est ce que c'est ?
 
-C'est un projet de groupe réalisé à Becode il y a 5 mois. Objectif : créer un site web pour un restaurant fictif avec **HTML** et **SASS** **Bootstrap**.
+C'est un projet de groupe réalisé à Becode il y a 5 mois. Objectif : créer un site web pour un restaurant fictif avec **HTML**, **SASS** et **Bootstrap**.
 
 ## Que faisons nous ?
 
