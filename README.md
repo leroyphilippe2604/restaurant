@@ -27,7 +27,7 @@ Hé bien nous avons reparti le travail en 4 : nous avons réalisé une page chac
 
 ## Un visuel ?
 
-Bien sur! Voici un lien où vous pourrez vous balader sur le site et voir toute les animations que nous avons mises : https://florencejacobs.github.io/Restaurant_GroupeC_Mangez_Grille/
+Bien sûr! Voici un lien où vous pourrez vous balader sur le site et voir toutes les animations que nous avons mises : https://florencejacobs.github.io/Restaurant_GroupeC_Mangez_Grille/
 
 ## Un dernier mot ?
 
